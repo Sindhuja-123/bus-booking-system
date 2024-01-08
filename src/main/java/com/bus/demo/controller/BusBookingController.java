@@ -1,4 +1,4 @@
-package com.bus.demo;
+package com.bus.demo.controller;
 
 import com.bus.demo.model.Bus;
 import com.bus.demo.service.BusBookingService;
